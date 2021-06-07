@@ -1,6 +1,6 @@
 
- #Strogonoff de Grango
- ###Ingredientes
+ <h3>Strogonoff de Grango</h3>
+ <p><h4>Ingredientes</h4>
   - 1 quilo de peito de frango sem pele
   - 1 tablete de caldo de galinha
   - 3 colheres de sopa de óleo
